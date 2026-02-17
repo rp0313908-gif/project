@@ -46,4 +46,6 @@ footer{
 text-align: center; }
 main{
     height: 600px; width: 100%;
+    background-image: url(cat_photo.jpg.jpg);
+    background-size: contain;
 }
